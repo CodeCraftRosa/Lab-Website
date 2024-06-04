@@ -80,12 +80,14 @@ params:
       url: https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html
     - logo: hospitalmar
       url: https://www.imim.es/
-    - logo: twitter
-      url: https://twitter.com/ClaraPretus 
+    # - logo: twitter
+    # url: https://twitter.com/ClaraPretus 
+    - logo: github
+      url: https://github.com/SBL-Barcelona
     - logo: instagram
       url: https://www.instagram.com/socialbrainlab.barcelona?igsh=azZ5cTgxdHV5NWRv
-    - logo: osf
-      url: https://osf.io/4b3rt
+    #- logo: osf
+    #  url: https://osf.io/4b3rt
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Home
