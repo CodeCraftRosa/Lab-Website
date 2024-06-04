@@ -82,6 +82,8 @@ params:
       url: https://www.imim.es/
     - logo: twitter
       url: https://twitter.com/ClaraPretus 
+    - logo: instagram
+      url: https://www.instagram.com/socialbrainlab.barcelona?igsh=azZ5cTgxdHV5NWRv
     - logo: osf
       url: https://osf.io/4b3rt
   # Customizable navbar. For a dropdown, add a "sublinks" list.
