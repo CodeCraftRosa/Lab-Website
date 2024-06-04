@@ -5,61 +5,71 @@ sidebarlogo: fresh-white-alt
 include_footer: true
 ---
 
-## Pre-prints
+## **2024**
 
-**Pretus C.,** Javeed A., Hughes D.R., Hackburg K., Tsakiris M., Vilarroya O., Van Bavel J. ([in press](https://psyarxiv.com/7j26y/)). The *Misleading* count: An identity-based intervention to mitigate the spread of partisan misinformation. *Philosophical Transactions B.*
+Vlasceanu M., Doell K., et al. ([2024](https://www.science.org/doi/10.1126/sciadv.adj5778)). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. *Science Advances*, 10, eadj5778.DOI:10.1126/sciadv.adj5778
 
-## 2023
+Pretus C., Javeed A., Hughes D.R., Hackburg K., Tsakiris M., Vilarroya O., Van Bavel J. ([2024](https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0040)). The Misleading count: An identity-based intervention to mitigate the spread of partisan misinformation. *Philosophical Transactions B*, 379(1897), 20230040.
 
-**Pretus C.,** Servin C., Harris E.A., Brady W.J., Vilarroya O., Van Bavel J. ([2023](https://psycnet.apa.org/fulltext/2023-83147-001.html)). The Role of Political Devotion in Sharing Partisan Misinformation and Resistance to Fact-checking. *Journal of Experimental Psychology: General.*
+Van Bavel, J.J., Rathje, S., Vlasceanu, M., Pretus, C. ([2024](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=144687261&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM440871&utm_medium=email&utm_source=AC)). Updating the Identity-based Model of Belief: From False Belief to the Spread of Misinformation. *Current Opinion in Psychology*, Vol. 56:  101787, https://doi.org/10.1016/j.copsyc.2023.101787.
 
-Van Bavel J., **Pretus C.**, Rathje S., Pärnamets P., Vlasceanu M., Knowles, E. (2023). The Costs of Polarizing a Pandemic: Antecedents, Consequences, and Lessons. Invited article at *Perspectives on Psychological Science*.
+Paternina-Die, M., Martínez-García, M., Martín de Blas, D., Noguero, I., Servin-Barthet, C., Pretus, C., Soler, A., López-Montoya, G., Desco, M., Carmona, S. ([2024](https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0040)) Women’s neuroplasticity during gestation, childbirth, and postpartum. *Nature Neuroscience*, 27, 319–327.
+
+## **2023**
+
+Pretus, C., Sheikh, H., Hamid, N., Atran, S. ([2023](https://jspp.psychopen.eu/index.php/jspp/article/view/11255/11255.html)) Predicting radicalism after perceived injustice: the role of separatist identity, sacred values, and police violence. *Journal of Social and Political Psychology*, Vol. 11(2), 730–746, https://doi.org/10.5964/jspp.11255.
+
+Servin-Barthet C., Martínez-García M., Pretus C., Paternina-Die M., Soler A., Khymenets O., Pozo O.J., Leuner B., Vilarroya O., Carmona S. ([2023](https://www.nature.com/articles/s41583-023-00733-6)) The transition to motherhood: linking hormones, brain, and behavior. *Nature Reviews Neuroscience*, 24, 605–619.
+
+Pretus C., Servin C., Harris E.A., Brady W.J., Vilarroya O., Van Bavel J. ([2023](https://psycnet.apa.org/fulltext/2023-83147-001.html)). The Role of Political Devotion in Sharing Partisan Misinformation and Resistance to Fact-checking. *Journal of Experimental Psychology: General.*
+
+Van Bavel J., Pretus C., Rathje S., Pärnamets P., Vlasceanu M., Knowles, E. (2023). The Costs of Polarizing a Pandemic: Antecedents, Consequences, and Lessons. *Perspectives on Psychological Science*.
 
 
 ## **2022**
 
-**Pretus C.,** Ray J. L., Granot Y., Cunningham W. A., Van Bavel J. ([2022](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2906)) The psychology of hate: Moral concerns differentiate hate from dislike. *European Journal of Social Psychology.* DOI: 10.1002/ejsp.2906.
+Pretus C., Ray J. L., Granot Y., Cunningham W. A., Van Bavel J. ([2022](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2906)) The psychology of hate: Moral concerns differentiate hate from dislike. *European Journal of Social Psychology.* DOI: 10.1002/ejsp.2906.
 
-Robertson C.E., **Pretus C.,** Rathje S., Harris E., Van Bavel J.J. ([2022](https://www.sciencedirect.com/science/article/pii/S2352250X22001440)). How Social Identity Shapes Conspirational Belief. *Current Opinion in Psychology*. DOI:10.1016/j.copsyc.2022.101423.
+Robertson C.E., Pretus C., Rathje S., Harris E., Van Bavel J.J. ([2022](https://www.sciencedirect.com/science/article/pii/S2352250X22001440)). How Social Identity Shapes Conspirational Belief. *Current Opinion in Psychology*. DOI:10.1016/j.copsyc.2022.101423.
 
-**Pretus C.,** Vilarroya O. ([2022](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2851)) Social norms (not threat) mediate willingness to sacrifice in individuals fused with the nation: insights from the covid-19 pandemic. *European Journal of Social Psychology.* DOI:10.1002/ejsp.2851.
+Pretus C., Vilarroya O. ([2022](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2851)) Social norms (not threat) mediate willingness to sacrifice in individuals fused with the nation: insights from the covid-19 pandemic. *European Journal of Social Psychology.* DOI:10.1002/ejsp.2851.
 
-Patel Y., Shin J., … **Pretus C.**, … ([2022](https://www.sciencedirect.com/science/article/pii/S0006322322010678)) Virtual ontogeny of cortical growth preceding mental illness. *Biological Psychiatry.* DOI: 10.1016/j.biopsych.2022.02.959.
+Patel Y., Shin J., … Pretus C., … ([2022](https://www.sciencedirect.com/science/article/pii/S0006322322010678)) Virtual ontogeny of cortical growth preceding mental illness. *Biological Psychiatry.* DOI: 10.1016/j.biopsych.2022.02.959.
 
 ## **2021**
 
-Marcos-Vidal, L., Martínez-García, M., Martín-de Blas, D., Navas-Sánchez, F. J., **Pretus, C.,** Ramos-Quiroga, F. A., Richarte, V., Vilarroya, O., Sepulcre, J., Desco, M. and Carmona, S. (2021) Local functional connectivity as a parsimonious explanation of the main frameworks for Attention-Deficit and Hyperactivity Disorder in medication-naïve adults. *Journal Of Attention Disorder.*
+Marcos-Vidal, L., Martínez-García, M., Martín-de Blas, D., Navas-Sánchez, F. J., Pretus, C., Ramos-Quiroga, F. A., Richarte, V., Vilarroya, O., Sepulcre, J., Desco, M. and Carmona, S. (2021) Local functional connectivity as a parsimonious explanation of the main frameworks for Attention-Deficit and Hyperactivity Disorder in medication-naïve adults. *Journal Of Attention Disorder.*
 
-**Pretus C.,** Bergé D., Guell X., Vilarroya, O. ([2021](https://pubmed.ncbi.nlm.nih.gov/32494887/)). Brain activity and connectivity differences in reward value discrimination during effort computation in schizophrenia. *European Archives of Psychiarty and Clinical Neuroscience*. DOI: 10.1007/s00406-020-01145-8.
+Pretus C., Bergé D., Guell X., Vilarroya, O. ([2021](https://pubmed.ncbi.nlm.nih.gov/32494887/)). Brain activity and connectivity differences in reward value discrimination during effort computation in schizophrenia. *European Archives of Psychiarty and Clinical Neuroscience*. DOI: 10.1007/s00406-020-01145-8.
 
 ## **2020**
 
-Paternina-Die M., Martínez-García M., **Pretus C.,** Hoekzema E., Barba-Müller E., Martín de Blas D., Pozzobon C., Ballesteros A., Vilarroya O., Desco M., Carmona S. ([2020](https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504)) The paternal transition entails neuroanatomic adaptations that are associated with the father’s brain response to his infant cues. *Cerebral Cortex Communications*. https://doi.org/10.1093/texcom/tgaa082.
+Paternina-Die M., Martínez-García M., Pretus C., Hoekzema E., Barba-Müller E., Martín de Blas D., Pozzobon C., Ballesteros A., Vilarroya O., Desco M., Carmona S. ([2020](https://academic.oup.com/cercorcomms/article/1/1/tgaa082/5955504)) The paternal transition entails neuroanatomic adaptations that are associated with the father’s brain response to his infant cues. *Cerebral Cortex Communications*. https://doi.org/10.1093/texcom/tgaa082.
 
 ## **2019**
 
-**Pretus C.,** Hamid N., Vilarroya O., Sheikh H., Ginges J., Tobeña A., Davis R., Atran S ([2019](https://academic.oup.com/scan/article/14/6/569/5486105)) Ventromedial and dorsolateral prefrontal interactions underlie willingness to fight and die for scared values. *Social Cognitive and Affective Neuroscience*,14(6): 569–577. DOI: 10.1093/scan/nsz034
+Pretus C., Hamid N., Vilarroya O., Sheikh H., Ginges J., Tobeña A., Davis R., Atran S ([2019](https://academic.oup.com/scan/article/14/6/569/5486105)) Ventromedial and dorsolateral prefrontal interactions underlie willingness to fight and die for scared values. *Social Cognitive and Affective Neuroscience*,14(6): 569–577. DOI: 10.1093/scan/nsz034
 
-Hamid N.*, **Pretus C.,** Vilarroya O., Sheikh H., Ginges J., Tobeña A., Crockett M., Carmona S., Gómez A.,Davis R., Atran S. ([2019](https://royalsocietypublishing.org/doi/10.1098/rsos.181585)) Will to fight: Neuroimaging supporters of an Al Qaeda affiliate. *Royal Society Open Science*, 6(6). DOI: 10.1098/rsos.181585 (*shared first authorship)
+Hamid N., Pretus C.*, Vilarroya O., Sheikh H., Ginges J., Tobeña A., Crockett M., Carmona S., Gómez A.,Davis R., Atran S. ([2019](https://royalsocietypublishing.org/doi/10.1098/rsos.181585)) Will to fight: Neuroimaging supporters of an Al Qaeda affiliate. *Royal Society Open Science*, 6(6). DOI: 10.1098/rsos.181585 (*shared first authorship)
 
-**Pretus C.,** Hamid N., Sheikh H., Ginges J., Tobeña A., Davis R., Vilarroya O., Atran S ([2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02462/full)) Neural and Behavioral Correlates of Sacred Values and Vulnerability to Violent Extremism, *Frontiers in Psychology*, 9: 2462. DOI: 10.3389/fpsyg.2018.02462.
+Pretus C., Hamid N., Sheikh H., Ginges J., Tobeña A., Davis R., Vilarroya O., Atran S ([2019](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02462/full)) Neural and Behavioral Correlates of Sacred Values and Vulnerability to Violent Extremism, *Frontiers in Psychology*, 9: 2462. DOI: 10.3389/fpsyg.2018.02462.
 
-**Pretus C.,** Marcos‐Vidal L., Martínez‐García M., Picado M., Ramos-Quiroga J.A., Richarte V., Castellanos F.X., Sepulcre J., Desco M., Vilarroya O., Carmona S ([2019](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24727)) Stepwise functional connectivity reveals altered sensory‐multimodal integration in medication‐naïve adults with attention deficit hyperactivity disorder. *Human Brain Mapping*, Jul 19. [DOI: 10.1002/hbm.24727](https://doi.org/10.1002/hbm.24727)
+Pretus C., Marcos‐Vidal L., Martínez‐García M., Picado M., Ramos-Quiroga J.A., Richarte V., Castellanos F.X., Sepulcre J., Desco M., Vilarroya O., Carmona S ([2019](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24727)) Stepwise functional connectivity reveals altered sensory‐multimodal integration in medication‐naïve adults with attention deficit hyperactivity disorder. *Human Brain Mapping*, Jul 19. [DOI: 10.1002/hbm.24727](https://doi.org/10.1002/hbm.24727)
 
-Carmona S., Martínez‐García M., Barba-Müller E., Paternina Die M., Lara Wierenga, Yasser Aleman, **Pretus C.,** et al. ([2019](https://pubmed.ncbi.nlm.nih.gov/30663172/)) Pregnancy and adolescence entail similar neuroanatomical adaptations: A comparative analysis of cerebral morphometric changes. *Human Brain Mapping*, Jan 19, DOI: 10.1002/hbm.24513
+Carmona S., Martínez‐García M., Barba-Müller E., Paternina Die M., Lara Wierenga, Yasser Aleman, Pretus C., et al. ([2019](https://pubmed.ncbi.nlm.nih.gov/30663172/)) Pregnancy and adolescence entail similar neuroanatomical adaptations: A comparative analysis of cerebral morphometric changes. *Human Brain Mapping*, Jan 19, DOI: 10.1002/hbm.24513
 
 ## **2018**
 
-Bergé D., **Pretus C.,** Guell X., Pous A., Arcos A., Pérez V., Vilarroya Ó. ([2018](https://www.sciencedirect.com/science/article/abs/pii/S0010440X18301731?via%3Dihub)) Reduced willingness to invest effort in schizophrenia with high negative symptoms regardless of reward stimulus presentation and reward value *Comprehensive Psychiatry*. DOI: 10.1016/j.comppsych.2018.10.010
+Bergé D., Pretus C., Guell X., Pous A., Arcos A., Pérez V., Vilarroya Ó. ([2018](https://www.sciencedirect.com/science/article/abs/pii/S0010440X18301731?via%3Dihub)) Reduced willingness to invest effort in schizophrenia with high negative symptoms regardless of reward stimulus presentation and reward value *Comprehensive Psychiatry*. DOI: 10.1016/j.comppsych.2018.10.010
 
-**Pretus C.,** Picado M., Ramos-Quiroga A., Carmona, S., Richarte, V., Fauquet, J., Vilarroya, O. ([2018](https://onlinelibrary.wiley.com/doi/10.1111/pcn.12689)) Just-in-time response to reward as a function of ADHD symptom severity. *Psychiatry and Clinical Neurosciences*. DOI: 10.1111/pcn.12689.
+Pretus C., Picado M., Ramos-Quiroga A., Carmona, S., Richarte, V., Fauquet, J., Vilarroya, O. ([2018](https://onlinelibrary.wiley.com/doi/10.1111/pcn.12689)) Just-in-time response to reward as a function of ADHD symptom severity. *Psychiatry and Clinical Neurosciences*. DOI: 10.1111/pcn.12689.
 
-Marcos‐Vidal L., Martínez‐García M., **Pretus C.,** Garcia‐Garcia D., Martínez K., Janssen J., Vilarroya O., Castellanos F.X., Desco M., Sepulcre J., Carmona S. ([2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6866394/)) Local functional connectivity suggests functional immaturity in children with attention-deficit/hyperactivity disorder. *Human Brain Mapping*. DOI: 10.1002/hbm.24013.
+Marcos‐Vidal L., Martínez‐García M., Pretus C., Garcia‐Garcia D., Martínez K., Janssen J., Vilarroya O., Castellanos F.X., Desco M., Sepulcre J., Carmona S. ([2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6866394/)) Local functional connectivity suggests functional immaturity in children with attention-deficit/hyperactivity disorder. *Human Brain Mapping*. DOI: 10.1002/hbm.24013.
 
 ## **2017**
 
-**Pretus C.,** Ramos-Quiroga A. Richarte, V., Corrales, M., Picado M., Carmona, S., Vilarroya, O ([2017](https://www.sciencedirect.com/science/article/abs/pii/S0924977X17309811?via%3Dihub)) Time and psychostimulants: opposing long-term structural effects in the adult ADHD brain. A longitudinal MR study. *European Neuropsychopharmacology*. Dec 17; 27(12), 1238-1247. DOI:  10.1016/j.euroneuro.2017.10.035.
+Pretus C., Ramos-Quiroga A. Richarte, V., Corrales, M., Picado M., Carmona, S., Vilarroya, O ([2017](https://www.sciencedirect.com/science/article/abs/pii/S0924977X17309811?via%3Dihub)) Time and psychostimulants: opposing long-term structural effects in the adult ADHD brain. A longitudinal MR study. *European Neuropsychopharmacology*. Dec 17; 27(12), 1238-1247. DOI:  10.1016/j.euroneuro.2017.10.035.
 
 ## **2016**
 
-**Pretus C.,** Picado M., Ramos-Quiroga A., Carmona, S., Richarte, V., Fauquet, J., Vilarroya, O. ([2016](https://journals.sagepub.com/doi/abs/10.1177/1087054716648776)) Presence of distractor improves time estimation performance in an adult ADHD sample. *Journal of Attention Disorders.* May 6, DOI: 10.1177/1087054716648776.
+Pretus C., Picado M., Ramos-Quiroga A., Carmona, S., Richarte, V., Fauquet, J., Vilarroya, O. ([2016](https://journals.sagepub.com/doi/abs/10.1177/1087054716648776)) Presence of distractor improves time estimation performance in an adult ADHD sample. *Journal of Attention Disorders.* May 6, DOI: 10.1177/1087054716648776.
