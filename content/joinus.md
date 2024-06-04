@@ -11,27 +11,9 @@ As a student in our lab, you will work alongside experienced researchers, gainin
 
 ## Open positions
 
-### Research Assistant positions
-
-1 research assistant position to support Cognitive Neuroscience experiments - in person (Deadline: September 25, 2023) 
-<br>
-[Read more](https://www.imim.cat/ofertes/en_detall-oferta-temporals.html?id=2392)
-<br> 
-
-### Predoctoral positions
-
-1 predoctoral position in Cognitive Neuroscience working on political extremism with fMRI (Deadline: CLOSED)
-<br>
-[Read more](https://www.imim.cat/media/upload/arxius/ofertes%20de%20treball/2023/BT/Ref.%202311%20-%20PRETUS.pdf?_t=1686307206)
-<br><br>
-1 predoctoral position in Cognitive Neuroscience working on misinformation with EEG (Deadline: CLOSED)
-<br>
-[Read more](https://www.imim.cat/media/upload/arxius/ofertes%20de%20treball/2023/BT/Ref.%202310%20-%20PRETUS.pdf?_t=1686306918)
-<br>
-
 ### Postdoctral positions
 
-1 postdoctoral position in Computational Modelling working on Moral Psychology of AI (Deadline: Open till filled)
+1 postdoctoral position in Computational Modelling working on Moral Psychology of AI (Deadline: June 20th, 2024)
 <br>
-[Read more](https://www.imim.cat/ofertes/en_detall-oferta-temporals.html?id=2384)
+[Read more]([https://www.imim.cat/ofertes/en_detall-oferta-temporals.html?id=2384](https://www.linkedin.com/jobs/view/3942089238))
 <br>
