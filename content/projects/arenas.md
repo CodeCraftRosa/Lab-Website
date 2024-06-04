@@ -11,6 +11,8 @@ We are part of ARENAS, an ERC funded project that aims to understand and mitigat
 
 As part of ARENAS, we will be leading studies on how extremist social media networks contribute to affective polarization in Spain and France.
 
+Visit the project’s website: [arenasproject.eu](https://arenasproject.eu/)
+
 <div class="container" style="display: flex; justify-content: center; padding: 5%">
  <img src="/images/projects/arenas.png"/>
 </div>
