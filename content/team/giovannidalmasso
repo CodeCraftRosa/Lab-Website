@@ -3,7 +3,7 @@ title: Team
 type: member
 sidebar: false
 sidebarlogo: fresh-white-alt
-image: images/team/empty.png
+image: images/team/giovanni.jpg
 position: 2
 ---
 
@@ -12,4 +12,4 @@ position: 2
 
 **Post-doctoral researcher**
 
-Luis obtained his Bachelor's in Psychology in 2015, his Master’s degree in Research Methodology in Social and Health Sciences in 2017, and his PhD in Biomedical Science and Technology at the Universidad Carlos III de Madrid in 2022. His research interests include methodology and statistics of Structural and Functional MRI. He is currently investigating how to simulate features of human moral cognition in AI systems.
+Giovanni Dalmasso is a Postdoctoral Researcher at the Social Brain Lab, Hospital del Mar Research Institute in Barcelona. He combines mathematical and computational modeling with psychology and neuroscience to study human moral decision-making. His work also includes tissue biology and disease modeling, focusing on organogenesis and vascular formation. Giovanni earned his PhD in Natural Sciences from the University of Heidelberg, researching at DKFZ and BioQuant. He holds a Master’s and Bachelor’s in Mathematical Engineering from the Polytechnic University of Turin, Italy. Currently, as part of the VALAWAI project Giovanni is developing an AI model inspired by moral psychology and contractualism, aiming to create AI systems that respect human autonomy.
